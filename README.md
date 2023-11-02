@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Milroy Perera</h1>
 <h3 align="center">A passionate Software Quality Assurance Engineer in Finland</h3>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1358/1*URVbNQirYASEkRkZPRSv4A.gif">
 
 - 🔭 I’m currently working on [Observis oy](https://www.observis.fi/)
 
